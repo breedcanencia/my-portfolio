@@ -43,7 +43,7 @@ export const portfolioData = {
     },
     {
       category: "Tools",
-      items: ["Git", "GitHub", "Postman", "Joi", "Celebrate"]
+      items: ["Git", "GitHub", "Postman", "Joi", "Celebrate", "Docker"]
     }
   ] as Skill[],
 
